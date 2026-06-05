@@ -6,6 +6,7 @@ const configRoutes = require("./routes/config");
 const ordersRoutes = require("./routes/orders");
 const statusRoutes = require("./routes/status");
 const liftRoutes = require("./routes/lift");
+const zoneRoutes = require("./routes/zones");
 const { registerDoorRoutes } = require("./routes/door");
 
 const app = express();
@@ -23,6 +24,7 @@ app.use("/api/config", configRoutes);
 app.use("/api/orders", ordersRoutes);
 app.use("/api/status", statusRoutes);
 app.use("/api/lift", liftRoutes);
+app.use("/api/zones", zoneRoutes);
 registerDoorRoutes(app);
 
 const server = app.listen(port, () => {

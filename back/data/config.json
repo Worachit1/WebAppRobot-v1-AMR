@@ -196,7 +196,13 @@
               "id": "s-g-z3-g4-183-rial-footing",
               "name": "183-Rial_footing",
               "rcsPosition": "183-Rial_footing"
-            },
+            }
+          ]
+        },
+        {
+          "id": "g-z3-home",
+          "name": "Home",
+          "spots": [
             {
               "id": "s-g-z3-home-cartreturn",
               "name": "CartReturn",
@@ -211,7 +217,13 @@
               "id": "s-g-z3-home-home-ps-hp",
               "name": "Home_(PS&HP)",
               "rcsPosition": "Home_(PS&HP)"
-            },
+            }
+          ]
+        },
+        {
+          "id": "g-z3-bwh",
+          "name": "B-W/H",
+          "spots": [
             {
               "id": "s-g-z3-bwh-g2-d1c1-in",
               "name": "#G2-D1C1_(IN)",
@@ -231,7 +243,13 @@
               "id": "s-g-z3-bwh-g1-a1b9-out",
               "name": "#G1-A1B9_(OUT)",
               "rcsPosition": "#G1-A1B9_(OUT)"
-            },
+            }
+          ]
+        },
+        {
+          "id": "g-z3-b9",
+          "name": "B9",
+          "spots": [
             {
               "id": "s-g-z3-b9-197-01-blocking-device",
               "name": "197-01_Blocking_Device",
@@ -256,7 +274,13 @@
               "id": "s-g-z3-b9-115-c",
               "name": "B9-115_C",
               "rcsPosition": "B9-115_C"
-            },
+            }
+          ]
+        },
+        {
+          "id": "g-z3-a1",
+          "name": "A1",
+          "spots": [
             {
               "id": "s-g-z3-a1-a1-hanger-case",
               "name": "A1-Hanger_Case",
