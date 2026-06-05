@@ -13,6 +13,7 @@ function normalizeZones(zones = []) {
       spots: (group.spots || []).map((spot) => ({
         id: spot.id,
         name: spot.name,
+        statusClass: spot.statusClass || "empty",
         rcsPosition: spot.rcsPosition,
       })),
     })),
@@ -31,8 +32,8 @@ router.get("/get/groups", async (req, res) => {
   });
 });
 
-// GET /zones/drop
-router.get("/drop", async (req, res) => {
+// GET /zones/get/drop
+router.get("/get/drops", async (req, res) => {
   const config = await getConfig();
 
   const zones = normalizeZones(config.dropZones || []);
