@@ -10,7 +10,7 @@ import {
 import { useNavigate } from "react-router-dom";
 
 import ScreenLayout from "../components/ScreenLayout.jsx";
-import MitsubishiLogo from "../components/MitsubishiLogo.jsx";
+import MitsubishiLogo from "../components/Amr-mtm-str.jsx";
 import { fetchConfig, fetchRobotStatus } from "../api/client.js";
 
 function Status() {

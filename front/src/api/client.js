@@ -33,6 +33,15 @@ export function login(username, password) {
   });
 }
 
+export function fetchZonePick(params= {}) {
+  return apiRequest("/zones/get/groups")
+}
+
+export function fetchZoneDrop(params= {}) {
+  return apiRequest("/zones/get/drops")
+}
+
+// ----------- ของเก่าเอาค้างไว้ก่อน ------------------
 export function fetchConfig() {
   return apiRequest("/config");
 }

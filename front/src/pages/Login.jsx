@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Box, Button, TextField, Typography } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 
-import MitsubishiLogo from "../components/MitsubishiLogo.jsx";
+import MitsubishiLogo from "../components/Amr-mtm-str.jsx";
 import { login } from "../api/client.js";
 
 function Login() {

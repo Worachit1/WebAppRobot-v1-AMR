@@ -1,5 +1,5 @@
 import { Box, Button, Typography, Dialog } from "@mui/material";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 import taskAssignImg from "../../public/assets/images/location_task_assign.jpg";
@@ -7,20 +7,7 @@ import c060Img from "../../public/assets/images/C060.png";
 import cartIcon from "../../public/assets/images/cartIcon.png";
 import ScreenLayout from "../components/ScreenLayout";
 
-const zones = [
-  {
-    title: "MTF ZONE",
-    cards: ["F2 MFT"],
-  },
-  {
-    title: "STF ZONE",
-    cards: ["F1 STF", "F2 STF", "G5 TO", "G3 EW"],
-  },
-  {
-    title: "STA ZONE",
-    cards: ["B-W/H", "KT STA", "G4 STA", "B9", "A1"],
-  },
-];
+import { fetchZonePick } from "../api/client";
 
 const ZoneList = () => {
   const navigate = useNavigate();
@@ -28,11 +15,24 @@ const ZoneList = () => {
   const [selectedCard, setSelectedCard] = useState(null);
   const [openSelect, setOpenSelect] = useState(false);
 
-  const handleSelectCard = (zoneTitle, cardNo) => {
-    setSelectedCard({ zone: zoneTitle, card: cardNo });
+  const [items, setItems] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  const handleSelectCard = (zone, group) => {
+    setSelectedCard({
+      zoneId: zone.id,
+      zoneName: zone.name,
+      groupId: group.id,
+      groupName: group.name,
+    });
     setOpenSelect(true);
   };
-
+  useEffect(() => {
+    setLoading(true);
+    fetchZonePick()
+      .then((res) => setItems(res.data || []))
+      .finally(() => setLoading(false));
+  }, []);
 
   return (
     <ScreenLayout onBack={() => navigate("/")} onHome={() => navigate("/")}>
@@ -67,80 +67,127 @@ const ZoneList = () => {
             TASK ASSIGN
           </Typography>
 
-          {zones.map((zone) => (
-            <Box
-              key={zone.title}
-              sx={{
-                position: "relative",
-                border: "2px solid #ddd",
-                borderRadius: "8px",
-                p: 2,
-                pt: 3,
-                mb: 2,
-              }}
-            >
-              <Typography
-                sx={{
-                  position: "absolute",
-                  top: "-12px",
-                  left: "-2px",
-                  minWidth: "150px",
-                  color: "#fff",
-                  fontSize: "14px",
-                  fontWeight: 800,
-                  px: 1,
-                  py: 0.3,
-                  background:
-                    "linear-gradient(90deg, #021024 0%, #003b8e 30%, #2f68ff 80%, rgba(106, 36, 218, 0.45) 90% , rgba(222, 222, 222, 0.3) 100%)",
-                }}
-              >
-                {zone.title}
-              </Typography>
+          {items.map((zone, zoneIndex) => {
+            const isFirstZone = zoneIndex === 0;
 
+            return (
               <Box
+                key={zone.id}
                 sx={{
-                  display: "grid",
-                  gridTemplateColumns: "repeat(3, 1fr)",
+                  display: isFirstZone ? "grid" : "block",
+                  gridTemplateColumns: isFirstZone ? "1fr 110px" : "1fr",
                   gap: 2,
+                  mb: 2,
+                  alignItems: "start",
+                  minHeight: "120px"
                 }}
               >
-                {zone.cards.map((cardNo) => (
-                  <Button
-                    key={`${zone.title}-${cardNo}`}
-                    variant="contained"
-                    onClick={() => handleSelectCard(zone.title, cardNo)}
+                <Box
+                  sx={{
+                    position: "relative",
+                    border: "2px solid #ddd",
+                    borderRadius: "8px",
+                    p: 2,
+                    pt: 3,
+                    minHeight: isFirstZone ? "120px" : "auto",
+                  }}
+                >
+                  <Typography
                     sx={{
-                      height: "85px",
-                      backgroundColor: "#bdf8c7",
-                      color: "#000",
-                      borderRadius: "2px",
-                      boxShadow: "4px 4px 6px rgba(0,0,0,0.25)",
+                      position: "absolute",
+                      top: "-12px",
+                      left: "-2px",
+                      minWidth: "150px",
+                      color: "#fff",
+                      fontSize: "14px",
+                      fontWeight: 800,
+                      px: 1,
+                      py: 0.3,
+                      background:
+                        "linear-gradient(90deg, #021024 0%, #003b8e 30%, #2f68ff 80%, rgba(106, 36, 218, 0.45) 90% , rgba(222, 222, 222, 0.3) 100%)",
+                    }}
+                  >
+                    {zone.name}
+                  </Typography>
+
+                  <Box
+                    sx={{
+                      display: "grid",
+                      gridTemplateColumns: isFirstZone
+                        ? "1fr"
+                        : "repeat(3, 1fr)",
+                      gap: 2,
+                      maxHeight: isFirstZone ? "85px" : "auto",
+                      maxWidth: isFirstZone ? "85px" : "auto",
+                    }}
+                  >
+                    {(zone.groups || []).map((group) => (
+                      <Button
+                        key={group.id}
+                        variant="contained"
+                        onClick={() => handleSelectCard(zone, group)}
+                        sx={{
+                          height: "85px",
+                          backgroundColor: "#bdf8c7",
+                          color: "#000",
+                          borderRadius: "2px",
+                          boxShadow: "4px 4px 6px rgba(0,0,0,0.25)",
+                          display: "flex",
+                          flexDirection: "column",
+                          fontWeight: 800,
+                          "&:hover": {
+                            backgroundColor: "#a8efb5",
+                          },
+                        }}
+                      >
+                        <img
+                          src={taskAssignImg}
+                          alt="Task Assign"
+                          style={{
+                            width: "60px",
+                            height: "30px",
+                            objectFit: "contain",
+                          }}
+                        />
+
+                        <Typography sx={{ fontSize: "16px", fontWeight: 800 }}>
+                          {group.name}
+                        </Typography>
+                      </Button>
+                    ))}
+                  </Box>
+                </Box>
+
+                {isFirstZone && (
+                  <Button
+                    sx={{
+                      height: "90px",
+                      mt: 1,
+                      bgcolor: "#a020a0",
+                      color: "#fff",
+                      borderRadius: "4px",
+                      boxShadow: "4px 4px 6px rgba(0,0,0,0.35)",
                       display: "flex",
                       flexDirection: "column",
-                      fontWeight: 800,
+                      gap: 0.5,
+                      fontWeight: 900,
                       "&:hover": {
-                        backgroundColor: "#a8efb5",
+                        bgcolor: "#8c168c",
                       },
                     }}
                   >
-                    <img
-                      src={taskAssignImg}
-                      alt="Task Assign"
-                      style={{
-                        width: "60px",
-                        height: "30px",
-                        objectFit: "contain",
-                      }}
-                    />
+                    <Box sx={{ fontSize: "34px", lineHeight: 1 }}>
+                      <i className="fa-solid fa-house"></i>
+                    </Box>
 
-                    <Typography sx={{ fontSize: "16px", fontWeight: 800 }}>
-                      {cardNo}
+                    <Typography sx={{ fontSize: "14px", fontWeight: 900 }}>
+                      HOME
                     </Typography>
                   </Button>
-                ))}
+                )}
               </Box>
-            </Box>
-          ))}
+            );
+          })}
         </Box>
       </Box>
       <Dialog
@@ -177,7 +224,14 @@ const ZoneList = () => {
             <Typography
               sx={{ fontSize: "16px", fontWeight: 900, color: "#000" }}
             >
-              SELECT ASSIGN <i className="fa-solid fa-arrow-right-long c" style={{ color: "#d21919" }}></i> <span style={{color: "#e4d0d0"}}>{selectedCard?.card}</span>
+              SELECT ASSIGN{" "}
+              <i
+                className="fa-solid fa-arrow-right-long c"
+                style={{ color: "#d21919" }}
+              ></i>{" "}
+              <span style={{ color: "#e4d0d0" }}>
+                {selectedCard?.groupName}
+              </span>
             </Typography>
 
             <Box
@@ -219,7 +273,7 @@ const ZoneList = () => {
             <Button
               onClick={() => {
                 navigate(
-                  `/order/robot?zone=${selectedCard?.zone}&card=${selectedCard?.card}&type=CALL_AMR`,
+                  `/task-assign/${encodeURIComponent(selectedCard?.zoneId)}?zoneName=${encodeURIComponent(selectedCard?.zoneName)}&groupId=${encodeURIComponent(selectedCard?.groupId)}&card=${encodeURIComponent(selectedCard?.groupName)}&type=CALL_AMR`,
                 );
               }}
               sx={{
@@ -264,7 +318,7 @@ const ZoneList = () => {
             <Button
               onClick={() => {
                 navigate(
-                  `/order/robot?zone=${selectedCard?.zone}&card=${selectedCard?.card}&type=CART_STATION`,
+                  `/task-assign/${encodeURIComponent(selectedCard?.zoneId)}?zoneName=${encodeURIComponent(selectedCard?.zoneName)}&groupId=${encodeURIComponent(selectedCard?.groupId)}&card=${encodeURIComponent(selectedCard?.groupName)}&type=CART_STATION`,
                 );
               }}
               sx={{
@@ -306,8 +360,6 @@ const ZoneList = () => {
                 STATION
               </Typography>
             </Button>
-
-            
           </Box>
         </Box>
       </Dialog>

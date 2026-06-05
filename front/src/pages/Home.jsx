@@ -12,7 +12,7 @@ import {
 import { useNavigate } from "react-router-dom";
 
 import ScreenLayout from "../components/ScreenLayout.jsx";
-import MitsubishiLogo from "../components/MitsubishiLogo.jsx";
+import MitsubishiLogo from "../components/Amr-mtm-str.jsx";
 
 import taskAssignImg from "../../public/assets/images/location_task_assign.jpg";
 
@@ -124,7 +124,7 @@ function Home() {
               boxShadow: "6px 6px 12px rgba(0,0,0,0.3)",
             },
           }}
-          onClick={() => navigate("/statustwo-test")}
+          onClick={() => navigate("/status")}
         >
           <span>TASK STATUS</span>
           <Box sx={{ fontSize: "56px", color: "#000" }}>

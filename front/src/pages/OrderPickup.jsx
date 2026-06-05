@@ -11,7 +11,7 @@ import {
 import { useNavigate } from "react-router-dom";
 
 import ScreenLayout from "../components/ScreenLayout.jsx";
-import MitsubishiLogo from "../components/MitsubishiLogo.jsx";
+import MitsubishiLogo from "../components/Amr-mtm-str.jsx";
 import { fetchConfig } from "../api/client.js";
 import { useOrder } from "../context/OrderContext.jsx";
 

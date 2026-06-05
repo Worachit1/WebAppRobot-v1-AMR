@@ -17,6 +17,7 @@ import LiftTest2 from "./pages/LiftTest2.jsx";
 import DoorTest from "./pages/DoorTest.jsx";
 import ZoneList from "./pages/Zonelist.jsx";
 import Statustwo from "./pages/Status.two.jsx";
+import TaskAssign from "./pages/TaskAssign.jsx";
 
 function isAuthed() {
   return Boolean(localStorage.getItem("authUser"));
@@ -147,6 +148,16 @@ function App() {
             </RequireAuth>
           }
         />
+
+        <Route
+          path="/task-assign/:zoneId"
+          element={
+            <RequireAuth>
+              <TaskAssign />
+            </RequireAuth>
+          }
+        />
+
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </OrderProvider>

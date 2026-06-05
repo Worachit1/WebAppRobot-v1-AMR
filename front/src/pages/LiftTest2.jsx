@@ -3,7 +3,7 @@ import { Box, Button, CircularProgress, Typography, Paper } from "@mui/material"
 import { useNavigate } from "react-router-dom";
 
 import ScreenLayout from "../components/ScreenLayout.jsx";
-import MitsubishiLogo from "../components/MitsubishiLogo.jsx";
+import MitsubishiLogo from "../components/Amr-mtm-str.jsx";
 import { fetchLift2Status, sendLift2Command, clearAllTestOutputs } from "../api/client.js";
 
 const REFRESH_INTERVAL_MS = 3000;

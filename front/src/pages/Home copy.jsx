@@ -3,7 +3,7 @@ import { Box, Button } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 
 import ScreenLayout from "../components/ScreenLayout.jsx";
-import MitsubishiLogo from "../components/MitsubishiLogo.jsx";
+import MitsubishiLogo from "../components/Amr-mtm-str.jsx";
 
 function Home() {
   const navigate = useNavigate();
