@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'AppFont';
+  src: url('/assets/font/Kanit/Kanit-Regular.ttf') format('truetype');
+  unicode-range: U+0E00-0E7F;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+}
+
+body,
+input,
+button,
+select,
+textarea,
+.MuiTypography-root,
+.MuiButton-root,
+.MuiInputBase-root,
+.MuiInputBase-input,
+.MuiOutlinedInput-root,
+.MuiOutlinedInput-input,
+.MuiFormLabel-root,
+.MuiInputLabel-root {
+  font-family: 'AppFont', sans-serif !important;
+}
+

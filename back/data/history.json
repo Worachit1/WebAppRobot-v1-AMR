@@ -1,0 +1,6135 @@
+[
+  {
+    "orderId": "1778069188542674389",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T12:06:28.543Z",
+    "startedAt": "2026-05-06T12:06:28.543Z",
+    "finishedAt": "2026-05-06T12:06:29.962Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778069188542674389",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778068984826743351",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T12:03:04.826Z",
+    "startedAt": "2026-05-06T12:03:04.826Z",
+    "finishedAt": "2026-05-06T12:03:04.993Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778068984826743351",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778068352981769830",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:52:32.981Z",
+    "startedAt": "2026-05-06T11:52:32.981Z",
+    "finishedAt": "2026-05-06T11:52:33.171Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778068352981769830",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778068330324401757",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:52:10.324Z",
+    "startedAt": "2026-05-06T11:52:10.324Z",
+    "finishedAt": "2026-05-06T11:52:10.535Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778068330324401757",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778067379666723945",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:36:19.666Z",
+    "startedAt": "2026-05-06T11:36:19.666Z",
+    "finishedAt": "2026-05-06T11:36:19.867Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778067379666723945",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177806713250424308",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-sub_con_part",
+      "name": "sub_con_part",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "sub_con_part"
+    },
+    "drop": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:32:12.504Z",
+    "startedAt": "2026-05-06T11:32:12.504Z",
+    "finishedAt": "2026-05-06T11:32:12.659Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177806713250424308",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778066999110995084",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "drop": {
+      "id": "s-f1-sub_con_part",
+      "name": "sub_con_part",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "sub_con_part"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:29:59.110Z",
+    "startedAt": "2026-05-06T11:29:59.110Z",
+    "finishedAt": "2026-05-06T11:29:59.272Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778066999110995084",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778066844279195246",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "drop": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:27:24.280Z",
+    "startedAt": "2026-05-06T11:27:24.280Z",
+    "finishedAt": "2026-05-06T11:27:24.437Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778066844279195246",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778066653718229266",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:24:13.718Z",
+    "startedAt": "2026-05-06T11:24:13.718Z",
+    "finishedAt": "2026-05-06T11:24:13.873Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778066653718229266",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778066500161760710",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:21:40.161Z",
+    "startedAt": "2026-05-06T11:21:40.161Z",
+    "finishedAt": "2026-05-06T11:21:40.318Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778066500161760710",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778066279262584458",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:17:59.262Z",
+    "startedAt": "2026-05-06T11:17:59.262Z",
+    "finishedAt": "2026-05-06T11:17:59.420Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778066279262584458",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778066094727751013",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:14:54.727Z",
+    "startedAt": "2026-05-06T11:14:54.727Z",
+    "finishedAt": "2026-05-06T11:14:54.908Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778066094727751013",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778065827803541681",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:10:27.803Z",
+    "startedAt": "2026-05-06T11:10:27.803Z",
+    "finishedAt": "2026-05-06T11:10:27.984Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778065827803541681",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778065715553916867",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:08:35.553Z",
+    "startedAt": "2026-05-06T11:08:35.553Z",
+    "finishedAt": "2026-05-06T11:08:35.718Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778065715553916867",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778065421805542231",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T11:03:41.806Z",
+    "startedAt": "2026-05-06T11:03:41.806Z",
+    "finishedAt": "2026-05-06T11:03:41.963Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778065421805542231",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778065141895181515",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:59:01.895Z",
+    "startedAt": "2026-05-06T10:59:01.895Z",
+    "finishedAt": "2026-05-06T10:59:02.053Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778065141895181515",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778064861419428134",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:54:21.419Z",
+    "startedAt": "2026-05-06T10:54:21.419Z",
+    "finishedAt": "2026-05-06T10:54:21.589Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778064861419428134",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778064686093610770",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:51:26.093Z",
+    "startedAt": "2026-05-06T10:51:26.093Z",
+    "finishedAt": "2026-05-06T10:51:26.265Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778064686093610770",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177806410518315420",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:41:45.183Z",
+    "startedAt": "2026-05-06T10:41:45.183Z",
+    "finishedAt": "2026-05-06T10:41:45.356Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177806410518315420",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778063658664733337",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:34:18.664Z",
+    "startedAt": "2026-05-06T10:34:18.664Z",
+    "finishedAt": "2026-05-06T10:34:18.875Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778063658664733337",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778062619144676074",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:16:59.144Z",
+    "startedAt": "2026-05-06T10:16:59.144Z",
+    "finishedAt": "2026-05-06T10:16:59.357Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778062619144676074",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778062423268945658",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:13:43.268Z",
+    "startedAt": "2026-05-06T10:13:43.268Z",
+    "finishedAt": "2026-05-06T10:13:43.441Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778062423268945658",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778062051324875411",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f2-item366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T10:07:31.324Z",
+    "startedAt": "2026-05-06T10:07:31.324Z",
+    "finishedAt": "2026-05-06T10:07:31.508Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778062051324875411",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778061096227256834",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:51:36.227Z",
+    "startedAt": "2026-05-06T09:51:36.227Z",
+    "finishedAt": "2026-05-06T09:51:36.423Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778061096227256834",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177806107823022366",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:51:18.231Z",
+    "startedAt": "2026-05-06T09:51:18.231Z",
+    "finishedAt": "2026-05-06T09:51:18.425Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177806107823022366",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778060899921878805",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:48:19.921Z",
+    "startedAt": "2026-05-06T09:48:19.921Z",
+    "finishedAt": "2026-05-06T09:48:20.132Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778060899921878805",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177806057279944816",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:42:52.799Z",
+    "startedAt": "2026-05-06T09:42:52.799Z",
+    "finishedAt": "2026-05-06T09:42:53.984Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177806057279944816",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778060209736909692",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:36:49.736Z",
+    "startedAt": "2026-05-06T09:36:49.736Z",
+    "finishedAt": "2026-05-06T09:36:49.909Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778060209736909692",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778059928598519566",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:32:08.599Z",
+    "startedAt": "2026-05-06T09:32:08.599Z",
+    "finishedAt": "2026-05-06T09:32:08.772Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778059928598519566",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778059721751793348",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:28:41.751Z",
+    "startedAt": "2026-05-06T09:28:41.751Z",
+    "finishedAt": "2026-05-06T09:28:41.905Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778059721751793348",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778059580712381298",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:26:20.712Z",
+    "startedAt": "2026-05-06T09:26:20.712Z",
+    "finishedAt": "2026-05-06T09:26:20.872Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778059580712381298",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778059525162855697",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:25:25.162Z",
+    "startedAt": "2026-05-06T09:25:25.162Z",
+    "finishedAt": "2026-05-06T09:25:25.307Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778059525162855697",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778058833788293736",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:13:53.789Z",
+    "startedAt": "2026-05-06T09:13:53.789Z",
+    "finishedAt": "2026-05-06T09:13:53.930Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778058833788293736",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778058736969774643",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-05-06T09:12:16.969Z",
+    "startedAt": "2026-05-06T09:12:16.969Z",
+    "finishedAt": "2026-05-06T09:12:36.242Z",
+    "error": "read ECONNRESET"
+  },
+  {
+    "orderId": "1778058393976174534",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:06:33.977Z",
+    "startedAt": "2026-05-06T09:06:33.977Z",
+    "finishedAt": "2026-05-06T09:06:34.142Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778058393976174534",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778058378266904431",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T09:06:18.266Z",
+    "startedAt": "2026-05-06T09:06:18.266Z",
+    "finishedAt": "2026-05-06T09:06:18.455Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778058378266904431",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778057844313175966",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:57:24.313Z",
+    "startedAt": "2026-05-06T08:57:24.313Z",
+    "finishedAt": "2026-05-06T08:57:24.551Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778057844313175966",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177805780669795256",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:56:46.697Z",
+    "startedAt": "2026-05-06T08:56:46.697Z",
+    "finishedAt": "2026-05-06T08:56:46.896Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177805780669795256",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778057526877324152",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:52:06.877Z",
+    "startedAt": "2026-05-06T08:52:06.877Z",
+    "finishedAt": "2026-05-06T08:52:07.026Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778057526877324152",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778057407689870156",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:50:07.689Z",
+    "startedAt": "2026-05-06T08:50:07.689Z",
+    "finishedAt": "2026-05-06T08:50:07.866Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778057407689870156",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778057031363849010",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:43:51.363Z",
+    "startedAt": "2026-05-06T08:43:51.363Z",
+    "finishedAt": "2026-05-06T08:43:51.542Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778057031363849010",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056930668632169",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:42:10.668Z",
+    "startedAt": "2026-05-06T08:42:10.668Z",
+    "finishedAt": "2026-05-06T08:42:10.814Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056930668632169",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056810074352200",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:40:10.075Z",
+    "startedAt": "2026-05-06T08:40:10.075Z",
+    "finishedAt": "2026-05-06T08:40:17.341Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056810074352200",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056698532536533",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:38:18.534Z",
+    "startedAt": "2026-05-06T08:38:18.534Z",
+    "finishedAt": "2026-05-06T08:38:18.704Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056698532536533",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056607510717491",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:36:47.510Z",
+    "startedAt": "2026-05-06T08:36:47.510Z",
+    "finishedAt": "2026-05-06T08:36:47.663Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056607510717491",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056479121570713",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:34:39.122Z",
+    "startedAt": "2026-05-06T08:34:39.122Z",
+    "finishedAt": "2026-05-06T08:34:39.277Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056479121570713",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056374614793504",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:32:54.614Z",
+    "startedAt": "2026-05-06T08:32:54.614Z",
+    "finishedAt": "2026-05-06T08:32:54.770Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056374614793504",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778056095246531815",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:28:15.246Z",
+    "startedAt": "2026-05-06T08:28:15.246Z",
+    "finishedAt": "2026-05-06T08:28:20.427Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778056095246531815",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055643189618728",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:20:43.189Z",
+    "startedAt": "2026-05-06T08:20:43.189Z",
+    "finishedAt": "2026-05-06T08:20:43.339Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055643189618728",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055495103795654",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:18:15.104Z",
+    "startedAt": "2026-05-06T08:18:15.104Z",
+    "finishedAt": "2026-05-06T08:18:15.250Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055495103795654",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055433420255638",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:17:13.421Z",
+    "startedAt": "2026-05-06T08:17:13.421Z",
+    "finishedAt": "2026-05-06T08:17:13.567Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055433420255638",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055358101862421",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:15:58.101Z",
+    "startedAt": "2026-05-06T08:15:58.101Z",
+    "finishedAt": "2026-05-06T08:15:58.253Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055358101862421",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055290607539343",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:14:50.607Z",
+    "startedAt": "2026-05-06T08:14:50.607Z",
+    "finishedAt": "2026-05-06T08:14:50.768Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055290607539343",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177805525090813849",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:14:10.908Z",
+    "startedAt": "2026-05-06T08:14:10.908Z",
+    "finishedAt": "2026-05-06T08:14:11.049Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177805525090813849",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055184876543281",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:13:04.877Z",
+    "startedAt": "2026-05-06T08:13:04.877Z",
+    "finishedAt": "2026-05-06T08:13:05.066Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055184876543281",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778055100728901309",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:11:40.728Z",
+    "startedAt": "2026-05-06T08:11:40.728Z",
+    "finishedAt": "2026-05-06T08:11:40.879Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778055100728901309",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778054964536750625",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:09:24.536Z",
+    "startedAt": "2026-05-06T08:09:24.536Z",
+    "finishedAt": "2026-05-06T08:09:24.687Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778054964536750625",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778054797422958640",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:06:37.422Z",
+    "startedAt": "2026-05-06T08:06:37.422Z",
+    "finishedAt": "2026-05-06T08:06:37.563Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778054797422958640",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177805467052063417",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:04:30.520Z",
+    "startedAt": "2026-05-06T08:04:30.520Z",
+    "finishedAt": "2026-05-06T08:04:30.674Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177805467052063417",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778054559365532277",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:02:39.365Z",
+    "startedAt": "2026-05-06T08:02:39.365Z",
+    "finishedAt": "2026-05-06T08:02:39.521Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778054559365532277",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778054438672151179",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T08:00:38.673Z",
+    "startedAt": "2026-05-06T08:00:38.673Z",
+    "finishedAt": "2026-05-06T08:00:38.825Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778054438672151179",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778054274437959341",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T07:57:54.437Z",
+    "startedAt": "2026-05-06T07:57:54.437Z",
+    "finishedAt": "2026-05-06T07:57:54.591Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778054274437959341",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778054058523108811",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T07:54:18.523Z",
+    "startedAt": "2026-05-06T07:54:18.523Z",
+    "finishedAt": "2026-05-06T07:54:18.675Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778054058523108811",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778053499973186219",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T07:44:59.973Z",
+    "startedAt": "2026-05-06T07:44:59.973Z",
+    "finishedAt": "2026-05-06T07:45:00.130Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778053499973186219",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778052916383521458",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T07:35:16.384Z",
+    "startedAt": "2026-05-06T07:35:16.384Z",
+    "finishedAt": "2026-05-06T07:35:16.548Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778052916383521458",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778049302879682328",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:35:02.879Z",
+    "startedAt": "2026-05-06T06:35:02.879Z",
+    "finishedAt": "2026-05-06T06:35:03.029Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778049302879682328",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778049131533369579",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:32:11.533Z",
+    "startedAt": "2026-05-06T06:32:11.533Z",
+    "finishedAt": "2026-05-06T06:32:11.677Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778049131533369579",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778048767639602629",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:26:07.640Z",
+    "startedAt": "2026-05-06T06:26:07.640Z",
+    "finishedAt": "2026-05-06T06:26:07.781Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778048767639602629",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778048650257865515",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:24:10.257Z",
+    "startedAt": "2026-05-06T06:24:10.257Z",
+    "finishedAt": "2026-05-06T06:24:10.408Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778048650257865515",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778048328815589674",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:18:48.815Z",
+    "startedAt": "2026-05-06T06:18:48.815Z",
+    "finishedAt": "2026-05-06T06:18:48.968Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778048328815589674",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778048279669409082",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:17:59.669Z",
+    "startedAt": "2026-05-06T06:17:59.669Z",
+    "finishedAt": "2026-05-06T06:17:59.826Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778048279669409082",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778047831352143958",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:10:31.352Z",
+    "startedAt": "2026-05-06T06:10:31.352Z",
+    "finishedAt": "2026-05-06T06:10:31.540Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778047831352143958",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778047657568873814",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T06:07:37.568Z",
+    "startedAt": "2026-05-06T06:07:37.568Z",
+    "finishedAt": "2026-05-06T06:07:37.729Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778047657568873814",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778047151127210954",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T05:59:11.128Z",
+    "startedAt": "2026-05-06T05:59:11.128Z",
+    "finishedAt": "2026-05-06T05:59:11.284Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778047151127210954",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778043464176489198",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T04:57:44.176Z",
+    "startedAt": "2026-05-06T04:57:44.176Z",
+    "finishedAt": "2026-05-06T04:57:44.379Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778043464176489198",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778043101680650126",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T04:51:41.681Z",
+    "startedAt": "2026-05-06T04:51:41.681Z",
+    "finishedAt": "2026-05-06T04:51:41.847Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778043101680650126",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778042691212998295",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "drop": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T04:44:51.212Z",
+    "startedAt": "2026-05-06T04:44:51.212Z",
+    "finishedAt": "2026-05-06T04:44:51.401Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778042691212998295",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778042122666703768",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "drop": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T04:35:22.666Z",
+    "startedAt": "2026-05-06T04:35:22.666Z",
+    "finishedAt": "2026-05-06T04:35:22.842Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778042122666703768",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778040289145726924",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-laser_machine2",
+      "name": "Laser_machine2",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine2"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-b2",
+      "name": "Block_packing(B2)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(B2)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T04:04:49.148Z",
+    "startedAt": "2026-05-06T04:04:49.148Z",
+    "finishedAt": "2026-05-06T04:04:49.308Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778040289145726924",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778040007674291553",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine2",
+      "name": "Laser_machine2",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T04:00:07.675Z",
+    "startedAt": "2026-05-06T04:00:07.675Z",
+    "finishedAt": "2026-05-06T04:00:07.880Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778040007674291553",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778039588830352709",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T03:53:08.830Z",
+    "startedAt": "2026-05-06T03:53:08.830Z",
+    "finishedAt": "2026-05-06T03:53:08.984Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778039588830352709",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778039480956380885",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T03:51:20.956Z",
+    "startedAt": "2026-05-06T03:51:20.956Z",
+    "finishedAt": "2026-05-06T03:51:21.096Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778039480956380885",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778039383990471786",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T03:49:43.990Z",
+    "startedAt": "2026-05-06T03:49:43.990Z",
+    "finishedAt": "2026-05-06T03:49:44.152Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778039383990471786",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778039148250700437",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "drop": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T03:45:48.250Z",
+    "startedAt": "2026-05-06T03:45:48.250Z",
+    "finishedAt": "2026-05-06T03:45:48.395Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778039148250700437",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778038752769215352",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T03:39:12.769Z",
+    "startedAt": "2026-05-06T03:39:12.769Z",
+    "finishedAt": "2026-05-06T03:39:12.929Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778038752769215352",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1778038464929142868",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-06T03:34:24.929Z",
+    "startedAt": "2026-05-06T03:34:24.929Z",
+    "finishedAt": "2026-05-06T03:34:25.109Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1778038464929142868",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777981679080829003",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T11:47:59.080Z",
+    "startedAt": "2026-05-05T11:47:59.080Z",
+    "finishedAt": "2026-05-05T11:47:59.249Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777981679080829003",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777981614142283798",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T11:46:54.142Z",
+    "startedAt": "2026-05-05T11:46:54.142Z",
+    "finishedAt": "2026-05-05T11:46:54.308Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777981614142283798",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777980891816695285",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T11:34:51.816Z",
+    "startedAt": "2026-05-05T11:34:51.816Z",
+    "finishedAt": "2026-05-05T11:34:51.984Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777980891816695285",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777980757436116018",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T11:32:37.436Z",
+    "startedAt": "2026-05-05T11:32:37.436Z",
+    "finishedAt": "2026-05-05T11:32:37.607Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777980757436116018",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777980600336172228",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "drop": {
+      "id": "s-f1-laser_machine1",
+      "name": "Laser_machine1",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Laser_machine1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T11:30:00.336Z",
+    "startedAt": "2026-05-05T11:30:00.336Z",
+    "finishedAt": "2026-05-05T11:30:00.517Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777980600336172228",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777979241549379915",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T11:07:21.550Z",
+    "startedAt": "2026-05-05T11:07:21.550Z",
+    "finishedAt": "2026-05-05T11:07:21.715Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777979241549379915",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777978701851319088",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T10:58:21.851Z",
+    "startedAt": "2026-05-05T10:58:21.851Z",
+    "finishedAt": "2026-05-05T10:58:22.067Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777978701851319088",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777973764772607411",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h-vpc",
+      "name": "W/H(VPC)",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H(VPC)"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T09:36:04.772Z",
+    "startedAt": "2026-05-05T09:36:04.772Z",
+    "finishedAt": "2026-05-05T09:36:04.978Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777973764772607411",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777973561139745269",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f3-w-h-vpc",
+      "name": "W/H(VPC)",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H(VPC)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T09:32:41.140Z",
+    "startedAt": "2026-05-05T09:32:41.140Z",
+    "finishedAt": "2026-05-05T09:32:43.427Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777973561139745269",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177797300680549046",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T09:23:26.806Z",
+    "startedAt": "2026-05-05T09:23:26.806Z",
+    "finishedAt": "2026-05-05T09:23:26.981Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177797300680549046",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777972981777435274",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h-vpc",
+      "name": "W/H(VPC)",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H(VPC)"
+    },
+    "drop": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T09:23:01.777Z",
+    "startedAt": "2026-05-05T09:23:01.777Z",
+    "finishedAt": "2026-05-05T09:23:01.952Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777972981777435274",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777972353224260516",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f3-w-h-vpc",
+      "name": "W/H(VPC)",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H(VPC)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T09:12:33.224Z",
+    "startedAt": "2026-05-05T09:12:33.224Z",
+    "finishedAt": "2026-05-05T09:12:33.373Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777972353224260516",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777971755538835451",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h-vpc",
+      "name": "W/H(VPC)",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H(VPC)"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T09:02:35.539Z",
+    "startedAt": "2026-05-05T09:02:35.539Z",
+    "finishedAt": "2026-05-05T09:02:35.697Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777971755538835451",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777970801744215546",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "s-f3-w-h-vpc",
+      "name": "W/H(VPC)",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H(VPC)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T08:46:41.744Z",
+    "startedAt": "2026-05-05T08:46:41.744Z",
+    "finishedAt": "2026-05-05T08:46:41.898Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777970801744215546",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777970032181273968",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f3-w-h",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T08:33:52.181Z",
+    "startedAt": "2026-05-05T08:33:52.181Z",
+    "finishedAt": "2026-05-05T08:33:52.338Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777970032181273968",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777969746556107698",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_shop-mt",
+      "name": "PCB_Shop(MT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(MT)"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T08:29:06.557Z",
+    "startedAt": "2026-05-05T08:29:06.557Z",
+    "finishedAt": "2026-05-05T08:29:06.709Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777969746556107698",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777969501358755905",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "drop": {
+      "id": "s-f2-pcb_shop-mt",
+      "name": "PCB_Shop(MT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(MT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T08:25:01.359Z",
+    "startedAt": "2026-05-05T08:25:01.359Z",
+    "finishedAt": "2026-05-05T08:25:01.518Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777969501358755905",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777968489585352558",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T08:08:09.586Z",
+    "startedAt": "2026-05-05T08:08:09.586Z",
+    "finishedAt": "2026-05-05T08:08:09.744Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777968489585352558",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777965773780459793",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_shop-mt",
+      "name": "PCB_Shop(MT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(MT)"
+    },
+    "drop": {
+      "id": "s-f2-pcb_shop-smt",
+      "name": "PCB_Shop(SMT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(SMT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T07:22:53.781Z",
+    "startedAt": "2026-05-05T07:22:53.781Z",
+    "finishedAt": "2026-05-05T07:22:53.949Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777965773780459793",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177796538448694855",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "drop": {
+      "id": "s-f2-pcb_shop-mt",
+      "name": "PCB_Shop(MT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(MT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T07:16:24.486Z",
+    "startedAt": "2026-05-05T07:16:24.486Z",
+    "finishedAt": "2026-05-05T07:16:24.645Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177796538448694855",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777965072147716043",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-elc_storage",
+      "name": "ELC_storage",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_storage"
+    },
+    "drop": {
+      "id": "s-f2-item6xx",
+      "name": "item6XX",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item6XX"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T07:11:12.147Z",
+    "startedAt": "2026-05-05T07:11:12.147Z",
+    "finishedAt": "2026-05-05T07:11:12.312Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777965072147716043",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777964762818955198",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "drop": {
+      "id": "s-f2-elc_storage",
+      "name": "ELC_storage",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_storage"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T07:06:02.818Z",
+    "startedAt": "2026-05-05T07:06:02.818Z",
+    "finishedAt": "2026-05-05T07:06:02.989Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777964762818955198",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777964462441500994",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "drop": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T07:01:02.441Z",
+    "startedAt": "2026-05-05T07:01:02.441Z",
+    "finishedAt": "2026-05-05T07:01:02.633Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777964462441500994",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777964143557129398",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "drop": {
+      "id": "s-f2-item366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:55:43.558Z",
+    "startedAt": "2026-05-05T06:55:43.558Z",
+    "finishedAt": "2026-05-05T06:55:43.742Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777964143557129398",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777963906259318477",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_5",
+      "name": "F/G(item366)_5",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_5"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:51:46.259Z",
+    "startedAt": "2026-05-05T06:51:46.259Z",
+    "finishedAt": "2026-05-05T06:51:46.793Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777963906259318477",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777963705983944135",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_4",
+      "name": "F/G(item366)_4",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:48:25.983Z",
+    "startedAt": "2026-05-05T06:48:25.983Z",
+    "finishedAt": "2026-05-05T06:48:26.481Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777963705983944135",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777963341020974535",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_3",
+      "name": "F/G(item366)_3",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_3"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:42:21.021Z",
+    "startedAt": "2026-05-05T06:42:21.021Z",
+    "finishedAt": "2026-05-05T06:42:23.910Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777963341020974535",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777963108142795907",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_2",
+      "name": "F/G(item366)_2",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_2"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:38:28.142Z",
+    "startedAt": "2026-05-05T06:38:28.142Z",
+    "finishedAt": "2026-05-05T06:38:28.309Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777963108142795907",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177796285008056189",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item6xx",
+      "name": "F/G(item6XX)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item6XX)"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:34:10.080Z",
+    "startedAt": "2026-05-05T06:34:10.080Z",
+    "finishedAt": "2026-05-05T06:34:10.246Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177796285008056189",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777962585750374625",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item2xx",
+      "name": "F/G(item2XX)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item2XX)"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item6xx",
+      "name": "F/G(item6XX)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item6XX)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:29:45.750Z",
+    "startedAt": "2026-05-05T06:29:45.750Z",
+    "finishedAt": "2026-05-05T06:29:45.930Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777962585750374625",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777962327372276358",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item2xx",
+      "name": "F/G(item2XX)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item2XX)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:25:27.372Z",
+    "startedAt": "2026-05-05T06:25:27.372Z",
+    "finishedAt": "2026-05-05T06:25:27.558Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777962327372276358",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777961900165193013",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:18:20.166Z",
+    "startedAt": "2026-05-05T06:18:20.166Z",
+    "finishedAt": "2026-05-05T06:18:20.343Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777961900165193013",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177796187069346726",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T06:17:50.694Z",
+    "startedAt": "2026-05-05T06:17:50.694Z",
+    "finishedAt": "2026-05-05T06:17:50.898Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177796187069346726",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777955835619407127",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T04:37:15.619Z",
+    "startedAt": "2026-05-05T04:37:15.619Z",
+    "finishedAt": "2026-05-05T04:37:15.795Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777955835619407127",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777955783249964059",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T04:36:23.250Z",
+    "startedAt": "2026-05-05T04:36:23.250Z",
+    "finishedAt": "2026-05-05T04:36:23.431Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777955783249964059",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777955492198817098",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T04:31:32.198Z",
+    "startedAt": "2026-05-05T04:31:32.198Z",
+    "finishedAt": "2026-05-05T04:31:32.385Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777955492198817098",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777955347235834036",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T04:29:07.235Z",
+    "startedAt": "2026-05-05T04:29:07.235Z",
+    "finishedAt": "2026-05-05T04:29:07.436Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777955347235834036",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177795493632086113",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-f-g-item366-_1",
+      "name": "F/G(item366)_1",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(item366)_1"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-05-05T04:22:16.328Z",
+    "startedAt": "2026-05-05T04:22:16.328Z",
+    "finishedAt": "2026-05-05T04:22:17.581Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177795493632086113",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777952258495506995",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f1-block_packing-d4",
+      "name": "Block_packing(D4)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Block_packing(D4)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-05-05T03:37:38.496Z",
+    "startedAt": "2026-05-05T03:37:38.496Z",
+    "finishedAt": "2026-05-05T03:37:59.536Z",
+    "error": "connect ETIMEDOUT 192.168.1.200:7000"
+  },
+  {
+    "orderId": "1777543408035740212",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T10:03:28.035Z",
+    "startedAt": "2026-04-30T10:03:28.035Z",
+    "finishedAt": "2026-04-30T10:03:28.222Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777543408035740212",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177754338641175857",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T10:03:06.411Z",
+    "startedAt": "2026-04-30T10:03:06.411Z",
+    "finishedAt": "2026-04-30T10:03:06.608Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177754338641175857",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777542186393121954",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T09:43:06.393Z",
+    "startedAt": "2026-04-30T09:43:06.393Z",
+    "finishedAt": "2026-04-30T09:43:06.649Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777542186393121954",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777542161334944777",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "drop": {
+      "id": "s-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T09:42:41.334Z",
+    "startedAt": "2026-04-30T09:42:41.334Z",
+    "finishedAt": "2026-04-30T09:42:43.349Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777542161334944777",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777540052975803042",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "drop": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T09:07:32.976Z",
+    "startedAt": "2026-04-30T09:07:32.976Z",
+    "finishedAt": "2026-04-30T09:07:33.150Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777540052975803042",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777538279444231699",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "drop": {
+      "id": "s-f2-elc_feeder",
+      "name": "ELC_Feeder",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "ELC_Feeder"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T08:37:59.444Z",
+    "startedAt": "2026-04-30T08:37:59.444Z",
+    "finishedAt": "2026-04-30T08:37:59.621Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777538279444231699",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777535470432581554",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "s-f2-item235",
+      "name": "item235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item235"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:51:10.432Z",
+    "startedAt": "2026-04-30T07:51:10.432Z",
+    "finishedAt": "2026-04-30T07:51:10.589Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777535470432581554",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777535410487869064",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "drop": {
+      "id": "s-f2-pcb_f-g",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:50:10.487Z",
+    "startedAt": "2026-04-30T07:50:10.487Z",
+    "finishedAt": "2026-04-30T07:50:10.661Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777535410487869064",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777535378425661214",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "s-f2-item366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "drop": {
+      "id": "s-f1-wire_cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:49:38.425Z",
+    "startedAt": "2026-04-30T07:49:38.425Z",
+    "finishedAt": "2026-04-30T07:49:38.602Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777535378425661214",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777533718130527699",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "p-f1-wire-cutting",
+      "name": "Wire_cutting",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "Wire_cutting"
+    },
+    "drop": {
+      "id": "d-f2-item-366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:21:58.130Z",
+    "startedAt": "2026-04-30T07:21:58.130Z",
+    "finishedAt": "2026-04-30T07:21:58.294Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777533718130527699",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777533291728907195",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "p-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "d-f1-ewc-writeromitem203",
+      "name": "EWC(WriteROMitem203)",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "EWC(WriteROMitem203)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:14:51.728Z",
+    "startedAt": "2026-04-30T07:14:51.728Z",
+    "finishedAt": "2026-04-30T07:14:51.903Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777533291728907195",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777533234843319038",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "d-f2-item-366-pick",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:13:54.843Z",
+    "startedAt": "2026-04-30T07:13:54.843Z",
+    "finishedAt": "2026-04-30T07:13:55.026Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777533234843319038",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777532847482469615",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "d-f2-item-366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:07:27.483Z",
+    "startedAt": "2026-04-30T07:07:27.483Z",
+    "finishedAt": "2026-04-30T07:07:27.667Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777532847482469615",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777532602343614451",
+    "robotId": "c040",
+    "robotName": "AMEC001",
+    "pickup": {
+      "id": "d-f2-item-366-pick",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "drop": {
+      "id": "d-f2-pcb-shop-mt",
+      "name": "PCB_Shop(MT)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop(MT)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-30T07:03:22.344Z",
+    "startedAt": "2026-04-30T07:03:22.344Z",
+    "finishedAt": "2026-04-30T07:03:22.629Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1777532602343614451",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1777530527578492990",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "d-f2-item-366",
+      "name": "item366",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item366"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-30T06:28:47.579Z",
+    "startedAt": "2026-04-30T06:28:47.579Z",
+    "finishedAt": "2026-04-30T06:28:49.249Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1777528463084770514",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "d-f2-item-235-under",
+      "name": "item_235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item_235"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-30T05:54:23.085Z",
+    "startedAt": "2026-04-30T05:54:23.085Z",
+    "finishedAt": "2026-04-30T05:54:23.237Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1777528386085761191",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB_F/G",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_F/G"
+    },
+    "drop": {
+      "id": "d-f2-item-235-under",
+      "name": "item_235",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "item_235"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-30T05:53:06.086Z",
+    "startedAt": "2026-04-30T05:53:06.086Z",
+    "finishedAt": "2026-04-30T05:53:07.300Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1776999595922315382",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-24T02:59:55.923Z",
+    "startedAt": "2026-04-24T02:59:55.923Z",
+    "finishedAt": "2026-04-24T02:59:56.126Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1776995712982479925",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-24T01:55:12.983Z",
+    "startedAt": "2026-04-24T01:55:12.983Z",
+    "finishedAt": "2026-04-24T01:55:13.424Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1776760980379515385",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-21T08:43:00.381Z",
+    "startedAt": "2026-04-21T08:43:00.381Z",
+    "finishedAt": "2026-04-21T08:43:00.608Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1776760980379515385",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1776760473241740520",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-21T08:34:33.243Z",
+    "startedAt": "2026-04-21T08:34:33.243Z",
+    "finishedAt": "2026-04-21T08:34:33.506Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1776760473241740520",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1776759939689941476",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "CANCELLED",
+    "createdAt": "2026-04-21T08:25:39.692Z",
+    "startedAt": "2026-04-21T08:25:39.692Z",
+    "finishedAt": "2026-04-30T09:23:55.188Z",
+    "note": "Cancelled (stub)"
+  },
+  {
+    "orderId": "1776759937798619604",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "CANCELLED",
+    "createdAt": "2026-04-21T08:25:37.800Z",
+    "startedAt": "2026-04-21T08:25:37.800Z",
+    "finishedAt": "2026-04-30T09:23:57.394Z",
+    "note": "Cancelled (stub)"
+  },
+  {
+    "orderId": "1775726978126237911",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T09:29:38.127Z",
+    "startedAt": "2026-04-09T09:29:38.127Z",
+    "finishedAt": "2026-04-09T09:29:40.155Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775726978126237911",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775726683897635417",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T09:24:43.899Z",
+    "startedAt": "2026-04-09T09:24:43.899Z",
+    "finishedAt": "2026-04-09T09:24:44.614Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775726683897635417",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775726074126395304",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T09:14:34.127Z",
+    "startedAt": "2026-04-09T09:14:34.127Z",
+    "finishedAt": "2026-04-09T09:14:34.453Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775726074126395304",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775724844921385938",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:54:04.922Z",
+    "startedAt": "2026-04-09T08:54:04.922Z",
+    "finishedAt": "2026-04-09T08:54:05.814Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775724844921385938",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775724658140513570",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:50:58.142Z",
+    "startedAt": "2026-04-09T08:50:58.142Z",
+    "finishedAt": "2026-04-09T08:50:58.999Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775724658140513570",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775724343680484828",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:45:43.681Z",
+    "startedAt": "2026-04-09T08:45:43.681Z",
+    "finishedAt": "2026-04-09T08:45:44.306Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775724343680484828",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775723454515202316",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:30:54.516Z",
+    "startedAt": "2026-04-09T08:30:54.516Z",
+    "finishedAt": "2026-04-09T08:30:55.099Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775723454515202316",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775723228435732457",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:27:08.436Z",
+    "startedAt": "2026-04-09T08:27:08.436Z",
+    "finishedAt": "2026-04-09T08:27:09.090Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775723228435732457",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775722929924541943",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:22:09.925Z",
+    "startedAt": "2026-04-09T08:22:09.925Z",
+    "finishedAt": "2026-04-09T08:22:10.492Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775722929924541943",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775722805042666157",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:20:05.044Z",
+    "startedAt": "2026-04-09T08:20:05.044Z",
+    "finishedAt": "2026-04-09T08:20:05.424Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775722805042666157",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775722403757653480",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB Shop",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:13:23.758Z",
+    "startedAt": "2026-04-09T08:13:23.758Z",
+    "finishedAt": "2026-04-09T08:13:24.309Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775722403757653480",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177572232247852620",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:12:02.479Z",
+    "startedAt": "2026-04-09T08:12:02.479Z",
+    "finishedAt": "2026-04-09T08:12:03.160Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177572232247852620",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775722060034228099",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:07:40.036Z",
+    "startedAt": "2026-04-09T08:07:40.036Z",
+    "finishedAt": "2026-04-09T08:07:40.362Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775722060034228099",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775722042633756859",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:07:22.635Z",
+    "startedAt": "2026-04-09T08:07:22.635Z",
+    "finishedAt": "2026-04-09T08:07:23.331Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1775722039726795314",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:07:19.727Z",
+    "startedAt": "2026-04-09T08:07:19.727Z",
+    "finishedAt": "2026-04-09T08:07:21.128Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1775722037925548448",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:07:17.926Z",
+    "startedAt": "2026-04-09T08:07:17.926Z",
+    "finishedAt": "2026-04-09T08:07:18.564Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1775721997344431502",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:06:37.345Z",
+    "startedAt": "2026-04-09T08:06:37.345Z",
+    "finishedAt": "2026-04-09T08:06:38.115Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775721997344431502",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775721983115710493",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:06:23.116Z",
+    "startedAt": "2026-04-09T08:06:23.116Z",
+    "finishedAt": "2026-04-09T08:06:23.769Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775721983115710493",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177572195236561670",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:05:52.367Z",
+    "startedAt": "2026-04-09T08:05:52.367Z",
+    "finishedAt": "2026-04-09T08:05:53.250Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177572195236561670",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775721937530236590",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:05:37.531Z",
+    "startedAt": "2026-04-09T08:05:37.531Z",
+    "finishedAt": "2026-04-09T08:05:37.969Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775721936106843422",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:05:36.107Z",
+    "startedAt": "2026-04-09T08:05:36.107Z",
+    "finishedAt": "2026-04-09T08:05:36.612Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775721930535179829",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:05:30.536Z",
+    "startedAt": "2026-04-09T08:05:30.536Z",
+    "finishedAt": "2026-04-09T08:05:30.880Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "1775721928803717096",
+    "robotId": "up",
+    "robotName": "UP",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T08:05:28.805Z",
+    "startedAt": "2026-04-09T08:05:28.805Z",
+    "finishedAt": "2026-04-09T08:05:29.387Z",
+    "rcsResponse": {
+      "code": 30007,
+      "data": "",
+      "desc": "任务指定或模板指派的设备不存在"
+    },
+    "error": "任务指定或模板指派的设备不存在"
+  },
+  {
+    "orderId": "177572190341650901",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB Shop",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:05:03.418Z",
+    "startedAt": "2026-04-09T08:05:03.418Z",
+    "finishedAt": "2026-04-09T08:05:04.258Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177572190341650901",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775721893202910281",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:04:53.203Z",
+    "startedAt": "2026-04-09T08:04:53.203Z",
+    "finishedAt": "2026-04-09T08:04:53.571Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775721893202910281",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177572187783664398",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:04:37.838Z",
+    "startedAt": "2026-04-09T08:04:37.838Z",
+    "finishedAt": "2026-04-09T08:04:38.393Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177572187783664398",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775721689971123861",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T08:01:29.972Z",
+    "startedAt": "2026-04-09T08:01:29.972Z",
+    "finishedAt": "2026-04-09T08:01:30.677Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775721689971123861",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177572130730368101",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:55:07.305Z",
+    "startedAt": "2026-04-09T07:55:07.305Z",
+    "finishedAt": "2026-04-09T07:55:07.844Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177572130730368101",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775721221834664175",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:53:41.835Z",
+    "startedAt": "2026-04-09T07:53:41.835Z",
+    "finishedAt": "2026-04-09T07:53:42.474Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775721221834664175",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775721154517356754",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:52:34.519Z",
+    "startedAt": "2026-04-09T07:52:34.519Z",
+    "finishedAt": "2026-04-09T07:52:34.864Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775721154517356754",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775719262609752022",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:21:02.610Z",
+    "startedAt": "2026-04-09T07:21:02.610Z",
+    "finishedAt": "2026-04-09T07:21:03.442Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775719262609752022",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775718916047122041",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:15:16.049Z",
+    "startedAt": "2026-04-09T07:15:16.049Z",
+    "finishedAt": "2026-04-09T07:15:16.857Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775718916047122041",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775718761179765607",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:12:41.181Z",
+    "startedAt": "2026-04-09T07:12:41.181Z",
+    "finishedAt": "2026-04-09T07:12:41.506Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775718761179765607",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775718480901739406",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:08:00.902Z",
+    "startedAt": "2026-04-09T07:08:00.902Z",
+    "finishedAt": "2026-04-09T07:08:01.777Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775718480901739406",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "17757182676145753",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T07:04:27.615Z",
+    "startedAt": "2026-04-09T07:04:27.615Z",
+    "finishedAt": "2026-04-09T07:04:28.279Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "17757182676145753",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775717837986324121",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:57:17.987Z",
+    "startedAt": "2026-04-09T06:57:17.987Z",
+    "finishedAt": "2026-04-09T06:57:19.324Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775717837986324121",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177571763944213250",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:53:59.443Z",
+    "startedAt": "2026-04-09T06:53:59.443Z",
+    "finishedAt": "2026-04-09T06:54:00.978Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177571763944213250",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177571726318580078",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:47:43.186Z",
+    "startedAt": "2026-04-09T06:47:43.186Z",
+    "finishedAt": "2026-04-09T06:47:44.656Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177571726318580078",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775717002428234869",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:43:22.430Z",
+    "startedAt": "2026-04-09T06:43:22.430Z",
+    "finishedAt": "2026-04-09T06:43:23.667Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775717002428234869",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775716824503127565",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:40:24.504Z",
+    "startedAt": "2026-04-09T06:40:24.504Z",
+    "finishedAt": "2026-04-09T06:40:26.310Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775716824503127565",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177571660728856394",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:36:47.289Z",
+    "startedAt": "2026-04-09T06:36:47.289Z",
+    "finishedAt": "2026-04-09T06:36:49.335Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177571660728856394",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775716185574617810",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T06:29:45.576Z",
+    "startedAt": "2026-04-09T06:29:45.576Z",
+    "finishedAt": "2026-04-09T06:29:47.210Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775716185574617810",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775708873431461180",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T04:27:53.433Z",
+    "startedAt": "2026-04-09T04:27:53.433Z",
+    "finishedAt": "2026-04-09T04:27:54.703Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775708873431461180",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177570523747130070",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T03:27:17.472Z",
+    "startedAt": "2026-04-09T03:27:17.472Z",
+    "finishedAt": "2026-04-09T03:27:22.766Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775705221433414441",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-09T03:27:01.435Z",
+    "startedAt": "2026-04-09T03:27:01.435Z",
+    "finishedAt": "2026-04-09T03:27:14.490Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775702134048379594",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-09T02:35:34.050Z",
+    "startedAt": "2026-04-09T02:35:34.050Z",
+    "finishedAt": "2026-04-09T02:35:45.074Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775702134048379594",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775646869905277062",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366-1",
+      "name": "F/G(Item366_1)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366_1)"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-08T11:14:29.907Z",
+    "startedAt": "2026-04-08T11:14:29.907Z",
+    "finishedAt": "2026-04-08T11:14:30.738Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775644761447423583",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-08T10:39:21.449Z",
+    "startedAt": "2026-04-08T10:39:21.449Z",
+    "finishedAt": "2026-04-08T10:39:22.146Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775644761447423583",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775642938917714203",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-08T10:08:58.918Z",
+    "startedAt": "2026-04-08T10:08:58.918Z",
+    "finishedAt": "2026-04-08T10:08:59.464Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775642938917714203",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775642497095669951",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-08T10:01:37.097Z",
+    "startedAt": "2026-04-08T10:01:37.097Z",
+    "finishedAt": "2026-04-08T10:01:37.901Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775642497095669951",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775632607167114585",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-08T07:16:47.170Z",
+    "startedAt": "2026-04-08T07:16:47.170Z",
+    "finishedAt": "2026-04-08T07:16:49.512Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775632607167114585",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177520588307816827",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-03T08:44:43.081Z",
+    "startedAt": "2026-04-03T08:44:43.081Z",
+    "finishedAt": "2026-04-03T08:44:43.433Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177520588307816827",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775202516476627192",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB Shop",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-03T07:48:36.478Z",
+    "startedAt": "2026-04-03T07:48:36.478Z",
+    "finishedAt": "2026-04-03T07:48:36.949Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775202516476627192",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775202352857600066",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-pcb",
+      "name": "PCB Shop",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "PCB_Shop"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-03T07:45:52.858Z",
+    "startedAt": "2026-04-03T07:45:52.858Z",
+    "finishedAt": "2026-04-03T07:45:53.238Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775202352857600066",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "177518982470497782",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-03T04:17:04.706Z",
+    "startedAt": "2026-04-03T04:17:04.706Z",
+    "finishedAt": "2026-04-03T04:17:05.253Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "177518982470497782",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775188637078735517",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-03T03:57:17.080Z",
+    "startedAt": "2026-04-03T03:57:17.080Z",
+    "finishedAt": "2026-04-03T03:57:17.644Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775188637078735517",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775120988908195665",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:09:48.910Z",
+    "startedAt": "2026-04-02T09:09:48.910Z",
+    "finishedAt": "2026-04-02T09:09:49.193Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120973767355818",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:09:33.769Z",
+    "startedAt": "2026-04-02T09:09:33.769Z",
+    "finishedAt": "2026-04-02T09:09:34.045Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120972814670452",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:09:32.816Z",
+    "startedAt": "2026-04-02T09:09:32.816Z",
+    "finishedAt": "2026-04-02T09:09:32.985Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120950669101429",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:09:10.670Z",
+    "startedAt": "2026-04-02T09:09:10.670Z",
+    "finishedAt": "2026-04-02T09:09:11.124Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120918797614611",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:08:38.799Z",
+    "startedAt": "2026-04-02T09:08:38.799Z",
+    "finishedAt": "2026-04-02T09:08:39.002Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120917473717067",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:08:37.475Z",
+    "startedAt": "2026-04-02T09:08:37.475Z",
+    "finishedAt": "2026-04-02T09:08:37.610Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120912214104284",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "drop": {
+      "id": "d-f2-fgitem366",
+      "name": "F/G_(Item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G_(Item366)"
+    },
+    "status": "SEND_FAILED",
+    "createdAt": "2026-04-02T09:08:32.216Z",
+    "startedAt": "2026-04-02T09:08:32.216Z",
+    "finishedAt": "2026-04-02T09:08:32.729Z",
+    "rcsResponse": {
+      "code": 2009,
+      "data": "",
+      "desc": "路径点集有误"
+    },
+    "error": "路径点集有误"
+  },
+  {
+    "orderId": "1775120569749839886",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T09:02:49.751Z",
+    "startedAt": "2026-04-02T09:02:49.751Z",
+    "finishedAt": "2026-04-02T09:02:50.371Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775120569749839886",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775118749538499651",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f1-writeRom",
+      "name": "WriteRom",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "WriteRom"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T08:32:29.539Z",
+    "startedAt": "2026-04-02T08:32:29.539Z",
+    "finishedAt": "2026-04-02T08:32:30.445Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775118749538499651",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775118569997638581",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-writerom",
+      "name": "WriteRom",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "WriteRom"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T08:29:29.999Z",
+    "startedAt": "2026-04-02T08:29:29.999Z",
+    "finishedAt": "2026-04-02T08:29:30.621Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775118569997638581",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775116759513473949",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T07:59:19.515Z",
+    "startedAt": "2026-04-02T07:59:19.515Z",
+    "finishedAt": "2026-04-02T07:59:20.177Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775116759513473949",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775114273301817622",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T07:17:53.303Z",
+    "startedAt": "2026-04-02T07:17:53.303Z",
+    "finishedAt": "2026-04-02T07:17:54.192Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775114273301817622",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775114120034237180",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f2-fg366",
+      "name": "F/G (item366)",
+      "floorId": "f2",
+      "floorName": "Floor 2",
+      "rcsPosition": "F/G(Item366)"
+    },
+    "drop": {
+      "id": "d-f1-d4",
+      "name": "D4",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "D4"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T07:15:20.037Z",
+    "startedAt": "2026-04-02T07:15:20.037Z",
+    "finishedAt": "2026-04-02T07:15:20.655Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775114120034237180",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775107836145776041",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "d-f1-writerom",
+      "name": "WriteRom",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "WriteRom"
+    },
+    "status": "SEND_SUCCESS",
+    "createdAt": "2026-04-02T05:30:36.148Z",
+    "startedAt": "2026-04-02T05:30:36.148Z",
+    "finishedAt": "2026-04-02T05:30:37.060Z",
+    "rcsResponse": {
+      "code": 1000,
+      "data": "1775107836145776041",
+      "desc": "请求成功"
+    }
+  },
+  {
+    "orderId": "1775106817493",
+    "robotId": "c040",
+    "robotName": "C040",
+    "pickup": {
+      "id": "p-f3-wh",
+      "name": "W/H",
+      "floorId": "f3",
+      "floorName": "Floor 3",
+      "rcsPosition": "W/H"
+    },
+    "drop": {
+      "id": "d-f1-writerom",
+      "name": "WriteRom",
+      "floorId": "f1",
+      "floorName": "Floor 1",
+      "rcsPosition": "WriteRom"
+    },
+    "status": "CANCELLED",
+    "createdAt": "2026-04-02T05:13:37.493Z",
+    "finishedAt": "2026-04-02T07:13:22.576Z",
+    "note": "Cancelled (stub)"
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "sendEnabled": true,
+  "pollingIntervalMs": 2000,
+  "statusRefreshIntervalMs": 5000,
+  "modelProcessCode": "moveShelf6",
+  "fromSystem": "TSC",
+  "rcs": [
+    {
+      "id": "rcs-1",
+      "name": "RCS-1",
+      "baseUrl": "http://192.168.1.200:7000",
+      "areaIds": [0, 1, 2]
+    }
+  ],
+  "robots": [
+    {
+      "id": "c040",
+      "name": "AMEC001",
+      "deviceNum": "EH12835AAK00001",
+      "rcsId": "rcs-1",
+      "imageUrl": "/assets/C040.jpg"
+    },
+    {
+      "id": "up",
+      "name": "UP",
+      "deviceNum": "AGV-02",
+      "rcsId": "rcs-1",
+      "imageUrl": "/assets/Up.png"
+    }
+  ],
+  "pickupFloors": [
+    {
+      "id": "f1",
+      "name": "Floor 1",
+      "spots": [
+        {
+          "id": "p-f1-wire-cutting",
+          "name": "Wire_cutting",
+          "rcsPosition": "Wire_cutting"
+        },
+        {
+          "id": "p-f1-sub-con-part",
+          "name": "sub_con_part",
+          "rcsPosition": "sub_con_part"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "name": "Floor 2",
+      "spots": [
+        {
+          "id": "d-f2-item-366-pick",
+          "name": "item366",
+          "rcsPosition": "item366"
+        },
+        {
+          "id": "d-f2-item-235-pick",
+          "name": "item235",
+          "rcsPosition": "item235"
+        },
+        {
+          "id": "p-f2-pcb",
+          "name": "PCB_F/G",
+          "rcsPosition": "PCB_F/G"
+        },
+        {
+          "id": "p-f2-fg366-1",
+          "name": "F/G(item366)_1",
+          "rcsPosition": "F/G(item366)_1"
+        },
+        {
+          "id": "p-f2-fg366-2",
+          "name": "F/G(item366)_2",
+          "rcsPosition": "F/G(item366)_2"
+        },
+        {
+          "id": "p-f2-fg366-3",
+          "name": "F/G(item366)_3",
+          "rcsPosition": "F/G(item366)_3"
+        },
+        {
+          "id": "p-f2-fg366-4",
+          "name": "F/G(item366)_4",
+          "rcsPosition": "F/G(item366)_4"
+        },
+        {
+          "id": "p-f2-fg366-5",
+          "name": "F/G(item366)_5",
+          "rcsPosition": "F/G(item366)_5"
+        },
+        {
+          "id": "p-f2-fg281-285-209-201",
+          "name": "F/G(item2XX)",
+          "rcsPosition": "F/G(item2XX)"
+        },
+        {
+          "id": "p-f2-fg6xx",
+          "name": "F/G(item6XX)",
+          "rcsPosition": "F/G(item6XX)"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "name": "Floor 3",
+      "spots": [
+        {
+          "id": "p-f3-wh",
+          "name": "W/H",
+          "rcsPosition": "W/H"
+        },
+        {
+          "id": "p-f3-wh-v-c",
+          "name": "W/H(VPC)",
+          "rcsPosition": "W/H(VPC)"
+        }
+      ]
+    }
+  ],
+  "dropFloors": [
+    {
+      "id": "f1",
+      "name": "Floor 1",
+      "spots": [
+        {
+          "id": "d-f1-d4block-packing",
+          "name": "Block_packing(D4)",
+          "rcsPosition": "Block_packing(D4)"
+        },
+        {
+          "id": "d-f1-laser-machine1",
+          "name": "Laser_machine1",
+          "rcsPosition": "Laser_machine1"
+        },
+        {
+          "id": "d-f1-ewc-writeromitem203",
+          "name": "EWC(WriteROMitem203)",
+          "rcsPosition": "EWC(WriteROMitem203)"
+        },
+        {
+          "id": "d-f1-laser-machine2",
+          "name": "Laser_machine2",
+          "rcsPosition": "Laser_machine2"
+        },
+        {
+          "id": "d-f1-b2block-packing",
+          "name": "Block_packing(B2)",
+          "rcsPosition": "Block_packing(B2)"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "name": "Floor 2",
+      "spots": [
+        {
+          "id": "d-f2-item-235",
+          "name": "item235",
+          "rcsPosition": "item235"
+        },
+        {
+          "id": "d-f2-item-366",
+          "name": "item366",
+          "rcsPosition": "item366"
+        },
+        {
+          "id": "d-f2-pcb-shop-mt",
+          "name": "PCB_Shop(MT)",
+          "rcsPosition": "PCB_Shop(MT)"
+        },
+        {
+          "id": "d-f2-pcb-shop-smt",
+          "name": "PCB_Shop(SMT)",
+          "rcsPosition": "PCB_Shop(SMT)"
+        },
+        {
+          "id": "d-f2-elc-feeder",
+          "name": "ELC_Feeder",
+          "rcsPosition": "ELC_Feeder"
+        },
+        {
+          "id": "d-f2-elc-storage",
+          "name": "ELC_storage",
+          "rcsPosition": "ELC_storage"
+        },
+        {
+          "id": "d-f2-item-6xx",
+          "name": "item6XX",
+          "rcsPosition": "item6XX"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "name": "Floor 3",
+      "spots": [
+        {
+          "id": "d-f3-wh",
+          "name": "W/H",
+          "rcsPosition": "W/H"
+        }
+      ]
+    }
+  ]
+}

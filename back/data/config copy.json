@@ -1,0 +1,201 @@
+{
+  "sendEnabled": true,
+  "pollingIntervalMs": 2000,
+  "statusRefreshIntervalMs": 5000,
+  "modelProcessCode": "moveShelf6",
+  "fromSystem": "TSC",
+  "rcs": [
+    {
+      "id": "rcs-1",
+      "name": "RCS-1",
+      "baseUrl": "http://192.168.1.200:7000",
+      "areaIds": [5, 6, 7]
+    }
+  ],
+  "robots": [
+    {
+      "id": "c040",
+      "name": "C040",
+      "deviceNum": "8154",
+      "rcsId": "rcs-1",
+      "imageUrl": "/assets/C040.jpg"
+    },
+    {
+      "id": "up",
+      "name": "UP",
+      "deviceNum": "AGV-02",
+      "rcsId": "rcs-1",
+      "imageUrl": "/assets/Up.png"
+    }
+  ],
+  "pickupFloors": [
+    {
+      "id": "f1",
+      "name": "Floor 1",
+      "spots": [
+        {
+          "id": "p-f1-d4",
+          "name": "D4",
+          "rcsPosition": "D4"
+        },
+        {
+          "id": "p-f1-b2",
+          "name": "B2",
+          "rcsPosition": "B2"
+        },
+        {
+          "id": "p-f1-writeRom",
+          "name": "WriteRom",
+          "rcsPosition": "WriteRom"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "name": "Floor 2",
+      "spots": [
+        {
+          "id": "p-f2-pcb",
+          "name": "PCB Shop",
+          "rcsPosition": "PCB_Shop"
+        },
+        {
+          "id": "p-f2-fg366",
+          "name": "F/G (item366)",
+          "rcsPosition": "F/G(Item366)"
+        },
+        {
+          "id": "p-f2-fg366-1",
+          "name": "F/G(Item366_1)",
+          "rcsPosition": "F/G(Item366_1)"
+        },
+        {
+          "id": "p-f2-fg366-2",
+          "name": "F/G(Item366_2)",
+          "rcsPosition": "F/G(Item366_2)"
+        },
+        {
+          "id": "p-f2-fg366-3",
+          "name": "F/G(Item366_3)",
+          "rcsPosition": "F/G(Item366_3)"
+        },
+        {
+          "id": "p-f2-fg366-4",
+          "name": "F/G(item366_4)",
+          "rcsPosition": "F/G(item366_4)"
+        },
+        {
+          "id": "p-f2-fg281-285-209-201",
+          "name": "F/G281,285,209,201",
+          "rcsPosition": "F/G281,285,209,201"
+        },
+        {
+          "id": "p-f2-fg6xx",
+          "name": "F/G(item6XX)",
+          "rcsPosition": "F/G(item6XX)"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "name": "Floor 3",
+      "spots": [
+        {
+          "id": "p-f3-wh",
+          "name": "W/H",
+          "rcsPosition": "W/H"
+        }
+      ]
+    }
+  ],
+  "dropFloors": [
+    {
+      "id": "f1",
+      "name": "Floor 1",
+      "spots": [
+        {
+          "id": "d-f1-d4",
+          "name": "D4",
+          "rcsPosition": "D4"
+        },
+        {
+          "id": "d-f1-d4_1",
+          "name": "D4_1",
+          "rcsPosition": "D4_1"
+        },
+        {
+          "id": "d-f1-b2",
+          "name": "B2",
+          "rcsPosition": "B2"
+        },
+        {
+          "id": "d-f1-writerom",
+          "name": "WriteRom",
+          "rcsPosition": "WriteRom"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "name": "Floor 2",
+      "spots": [
+        {
+          "id": "d-f2-fgitem366",
+          "name": "F/G_(Item366)",
+          "rcsPosition": "F/G_(Item366)"
+        },
+        {
+          "id": "d-f2-item235",
+          "name": "Item235",
+          "rcsPosition": "Item235"
+        },
+        {
+          "id": "p-f2-fg366",
+          "name": "F/G (item366)",
+          "rcsPosition": "F/G(Item366)"
+        },
+        {
+          "id": "d-f2-item6xx",
+          "name": "Item6XX",
+          "rcsPosition": "Item6XX"
+        },
+        {
+          "id": "d-f2-elc-feeder",
+          "name": "ELC_Feeder",
+          "rcsPosition": "ELC_Feeder"
+        },
+        {
+          "id": "d-f2-parts-storage1",
+          "name": "Parts_Storage1",
+          "rcsPosition": "Parts_Storage1"
+        },
+        {
+          "id": "d-f2-pcbshop",
+          "name": "PCBShop",
+          "rcsPosition": "PCBShop"
+        },
+        {
+          "id": "d-f2-smt-line",
+          "name": "SMT_Line",
+          "rcsPosition": "SMT_Line"
+        },
+        {
+          "id": "d-f2-mt-line",
+          "name": "MT_Line",
+          "rcsPosition": "MT_Line"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "name": "Floor 3",
+      "spots": [
+        {
+          "id": "d-f3-wh",
+          "name": "W/H",
+          "rcsPosition": "W/H"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "sendEnabled": true,
+  "pollingIntervalMs": 2000,
+  "statusRefreshIntervalMs": 5000,
+  "modelProcessCode": "moveShelf6",
+  "fromSystem": "TSC",
+  "rcs": [
+    {
+      "id": "rcs-1",
+      "name": "RCS-1",
+      "baseUrl": "http://192.168.1.200:7000",
+      "areaIds": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "robots": [
+    {
+      "id": "C100",
+      "name": "C100",
+      "deviceNum": "EH12835AAK00001",
+      "rcsId": "rcs-1",
+      "imageUrl": "/assets/C040.jpg"
+    },
+    {
+      "id": "up",
+      "name": "UP",
+      "deviceNum": "AGV-02",
+      "rcsId": "rcs-1",
+      "imageUrl": "/assets/Up.png"
+    }
+  ],
+  "pickupZones": [
+    {
+      "id": "z1-f1",
+      "name": "MTF ZONE",
+      "group": {
+        "id": "g-z1",
+        "name": "MTF",
+        "spots": [
+          {
+            "id": "s-z1-mtf-rd",
+            "name": "MTF-RD",
+            "rcsPosition": "MTF-RD"
+          },
+          {
+            "id": "s-z1-mtf-bd",
+            "name": "MTF-BD",
+            "rcsPosition": "MTF-BD"
+          },
+          {
+            "id": "s-z1-mtf-mk",
+            "name": "MTF-MK",
+            "rcsPosition": "MTF-MK"
+          }
+        ]
+      }
+    },
+    {
+      "id": "z2-f1",
+      "name": "STF ZONE",
+      "group": {
+        "id": "g-z2-f1",
+        "name": "F1 STF",
+        "spots": [
+          {
+            "id": "s-z2-f1-f1lz",
+            "name": "F1LZ",
+            "rcsPosition": "F1LZ"
+          },
+          {
+            "id": "s-z2-f1-f1lz-cardreturn",
+            "name": "F1LZ-CartReturn",
+            "rcsPosition": "F1LZ-CartReturn"
+          },
+          {
+            "id": "s-z2-f1-stf-g5to",
+            "name": "F1LZ-G5TO",
+            "rcsPosition": "F1LZ-G5TO"
+          }
+        ]
+      }
+    },
+    {
+      "id": "z2-f2",
+      "name": "STF ZONE",
+      "group": {
+        "id": "g-z2-f2",
+        "name": "F2 STF",
+        "spots": [
+          {
+            "id": "s-z2-f2-f2bd-cardreturn",
+            "name": " F2BD-CartReturn",
+            "rcsPosition": " F2BD-CartReturn"
+          },
+          {
+            "id": "s-z2-f1lz-cardreturn",
+            "name": "F1LZ-CartReturn",
+            "rcsPosition": "F1LZ-CartReturn"
+          },
+          {
+            "id": "s-z2-stf-g5to",
+            "name": "F1LZ-G5TO",
+            "rcsPosition": "F1LZ-G5TO"
+          }
+        ]
+      }
+    }
+  ]
+}
