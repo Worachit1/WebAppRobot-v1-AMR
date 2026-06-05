@@ -116,6 +116,11 @@
               "rcsPosition": "G5TO-Feeder-In"
             },
             {
+              "id": "s-g-z2-g5to-g5to-sta",
+              "name": "G5TO-STA",
+              "rcsPosition": "G5TO-STA"
+            },
+            {
               "id": "s-g-z2-g5to-g5to-cartreturn",
               "name": "G5TO-CartReturn",
               "rcsPosition": "G5TO-CartReturn"
