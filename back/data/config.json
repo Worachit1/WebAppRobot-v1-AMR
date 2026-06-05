@@ -105,6 +105,38 @@
               "rcsPosition": "F2PB8"
             }
           ]
+        },
+        {
+          "id": "g-z2-g5to",
+          "name": "G5TO",
+          "spots": [
+            {
+              "id": "s-g-z2-g5to-g5to-feeder-in",
+              "name": "G5TO-Feeder-In",
+              "rcsPosition": "G5TO-Feeder-In"
+            },
+            {
+              "id": "s-g-z2-g5to-g5to-cartreturn",
+              "name": "G5TO-CartReturn",
+              "rcsPosition": "G5TO-CartReturn"
+            }
+          ]
+        },
+        {
+          "id": "g-z2-g3ew",
+          "name": "G3EW",
+          "spots": [
+            {
+              "id": "s-g-z2-g3ew-g3ew-in",
+              "name": "G3EW_(IN)",
+              "rcsPosition": "G3EW_(IN)"
+            },
+            {
+              "id": "s-g-z2-g3ew-g3ew-out",
+              "name": "G3EW_(OUT)",
+              "rcsPosition": "G3EW_(OUT)"
+            }
+          ]
         }
       ]
     },
