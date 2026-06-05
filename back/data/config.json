@@ -44,16 +44,19 @@
             {
               "id": "s-g-z1-mtf-rd",
               "name": "MTF-RD",
+              "statusClass": "empty",
               "rcsPosition": "MTF-RD"
             },
             {
               "id": "s-g-z1-mtf-bd",
               "name": "MTF-BD",
+              "statusClass": "empty",
               "rcsPosition": "MTF-BD"
             },
             {
               "id": "s-g-z1-mtf-mk",
               "name": "MTF-MK",
+              "statusClass": "empty",
               "rcsPosition": "MTF-MK"
             }
           ]
@@ -71,16 +74,19 @@
             {
               "id": "s-g-z2-f1-f1lz",
               "name": "F1LZ",
+              "statusClass": "empty",
               "rcsPosition": "F1LZ"
             },
             {
               "id": "s-g-z2-f1-f1lz-cartreturn",
               "name": "F1LZ-CartReturn",
+              "statusClass": "empty",
               "rcsPosition": "F1LZ-CartReturn"
             },
             {
               "id": "s-g-z2-f1-f1lz-g5to",
               "name": "F1LZ-G5TO",
+              "statusClass": "empty",
               "rcsPosition": "F1LZ-G5TO"
             }
           ]
@@ -92,16 +98,19 @@
             {
               "id": "s-g-z2-f2-f2bd-cartreturn",
               "name": "F2BD-CartReturn",
+              "statusClass": "empty",
               "rcsPosition": "F2BD-CartReturn"
             },
             {
               "id": "s-g-z2-f2-f2pb12-cartreturn",
               "name": "F2PB12-CartReturn",
+              "statusClass": "empty",
               "rcsPosition": "F2PB12-CartReturn"
             },
             {
               "id": "s-g-z2-f2-f2pb8",
               "name": "F2PB8",
+              "statusClass": "empty",
               "rcsPosition": "F2PB8"
             }
           ]
@@ -113,16 +122,19 @@
             {
               "id": "s-g-z2-g5to-g5to-feeder-in",
               "name": "G5TO-Feeder-In",
+              "statusClass": "empty",
               "rcsPosition": "G5TO-Feeder-In"
             },
             {
               "id": "s-g-z2-g5to-g5to-sta",
               "name": "G5TO-STA",
+              "statusClass": "empty",
               "rcsPosition": "G5TO-STA"
             },
             {
               "id": "s-g-z2-g5to-g5to-cartreturn",
               "name": "G5TO-CartReturn",
+              "statusClass": "empty",
               "rcsPosition": "G5TO-CartReturn"
             }
           ]
@@ -134,11 +146,13 @@
             {
               "id": "s-g-z2-g3ew-g3ew-in",
               "name": "G3EW_(IN)",
+              "statusClass": "empty",
               "rcsPosition": "G3EW_(IN)"
             },
             {
               "id": "s-g-z2-g3ew-g3ew-out",
               "name": "G3EW_(OUT)",
+              "statusClass": "empty",
               "rcsPosition": "G3EW_(OUT)"
             }
           ]
@@ -156,11 +170,13 @@
             {
               "id": "s-g-z3-kt-g4-kitting-in",
               "name": "G4_Kitting_(IN)",
+              "statusClass": "empty",
               "rcsPosition": "G4_Kitting_(IN)"
             },
             {
               "id": "s-g-z3-kt-g4-kitting-out",
               "name": "G4_Kitting_(OUT)",
+              "statusClass": "empty",
               "rcsPosition": "G4_Kitting_(OUT)"
             }
           ]
@@ -172,66 +188,79 @@
             {
               "id": "s-g-z3-g4-125-gsb282",
               "name": "125-GSB282",
+              "statusClass": "empty",
               "rcsPosition": "125-GSB282"
             },
             {
               "id": "s-g-z3-g4-125-gsb282-g5to",
               "name": "125-GSB282-G5TO",
+              "statusClass": "empty",
               "rcsPosition": "125-GSB282-G5TO"
             },
             {
               "id": "s-g-z3-g4-125-gsb400",
               "name": "125-GSB400",
+              "statusClass": "empty",
               "rcsPosition": "125-GSB400"
             },
             {
               "id": "s-g-z3-g4-125-gsb282",
               "name": "125-GSB282",
+              "statusClass": "empty",
               "rcsPosition": "125-GSB282"
             },
             {
               "id": "s-g-z3-g4-124-sus-sheave-g5to",
               "name": "124_Sus.Sheave-G5TO",
+              "statusClass": "empty",
               "rcsPosition": "124_Sus.Sheave-G5TO"
             },
             {
               "id": "s-g-z3-g4-124-sus-sheave",
               "name": "124_Sus.Sheave",
+              "statusClass": "empty",
               "rcsPosition": "124_Sus.Sheave"
             },
             {
               "id": "s-g-z3-g4-121-upper-beam-g5to",
               "name": "121_Upper_Beam-G5TO",
+              "statusClass": "empty",
               "rcsPosition": "121_Upper_Beam-G5TO"
             },
             {
               "id": "s-g-z3-g4-121-upper-beam",
               "name": "121_Upper_Beam",
+              "statusClass": "empty",
               "rcsPosition": "121_Upper_Beam"
             },
             {
               "id": "s-g-z3-g4-128-selection-table-g5to",
               "name": "128_Selection_Table-G5TO",
+              "statusClass": "empty",
               "rcsPosition": "128_Selection_Table-G5TO"
             },
             {
               "id": "s-g-z3-g4-128-selection-table",
               "name": "128_Selection_Table",
+              "statusClass": "empty",
               "rcsPosition": "128_Selection_Table"
             },
             {
               "id": "s-g-z3-g4-121-handrail",
               "name": "121_Handrail",
+              "statusClass": "empty",
               "rcsPosition": "121_Handrail"
             },
             {
               "id": "s-g-z3-g4-183-oil-buffer",
               "name": "183-Oil_buffer",
+              "statusClass": "empty",
               "rcsPosition": "183-Oil_buffer"
             },
             {
               "id": "s-g-z3-g4-183-rial-footing",
               "name": "183-Rial_footing",
+              "statusClass": "empty",
               "rcsPosition": "183-Rial_footing"
             }
           ]
@@ -243,16 +272,19 @@
             {
               "id": "s-g-z3-home-cartreturn",
               "name": "CartReturn",
+              "statusClass": "empty",
               "rcsPosition": "CartReturn"
             },
             {
               "id": "s-g-z3-home-feederin",
               "name": "FeederIn",
+              "statusClass": "empty",
               "rcsPosition": "FeederIn"
             },
             {
               "id": "s-g-z3-home-home-ps-hp",
               "name": "Home_(PS&HP)",
+              "statusClass": "empty",
               "rcsPosition": "Home_(PS&HP)"
             }
           ]
@@ -264,21 +296,25 @@
             {
               "id": "s-g-z3-bwh-g2-d1c1-in",
               "name": "#G2-D1C1_(IN)",
+              "statusClass": "empty",
               "rcsPosition": "#G2-D1C1_(IN)"
             },
             {
               "id": "s-g-z3-bwh-g2-d1c1-out",
               "name": "#G2-D1C1_(OUT)",
+              "statusClass": "empty",
               "rcsPosition": "#G2-D1C1_(OUT)"
             },
             {
               "id": "s-g-z3-bwh-g1-a1b9-in",
               "name": "#G1-A1B9_(IN)",
+              "statusClass": "empty",
               "rcsPosition": "#G1-A1B9_(IN)"
             },
             {
               "id": "s-g-z3-bwh-g1-a1b9-out",
               "name": "#G1-A1B9_(OUT)",
+              "statusClass": "empty",
               "rcsPosition": "#G1-A1B9_(OUT)"
             }
           ]
@@ -290,26 +326,31 @@
             {
               "id": "s-g-z3-b9-197-01-blocking-device",
               "name": "197-01_Blocking_Device",
+              "statusClass": "empty",
               "rcsPosition": "197-01_Blocking_Device"
             },
             {
               "id": "s-g-z3-b9-115-sp",
               "name": "B9-115_S/P",
+              "statusClass": "empty",
               "rcsPosition": "B9-115_S/P"
             },
             {
               "id": "s-g-z3-b9-122-weighting-device",
               "name": "B9-122_Weighting_Device",
+              "statusClass": "empty",
               "rcsPosition": "B9-122_Weighting_Device"
             },
             {
               "id": "s-g-z3-b9-103-04-isolate-rubber-198-02-pit-leader",
               "name": "103-04_Isolate_Rubber/198-02_Pit_Leader",
+              "statusClass": "empty",
               "rcsPosition": "103-04_Isolate_Rubber/198-02_Pit_Leader"
             },
             {
               "id": "s-g-z3-b9-115-c",
               "name": "B9-115_C",
+              "statusClass": "empty",
               "rcsPosition": "B9-115_C"
             }
           ]
@@ -321,21 +362,25 @@
             {
               "id": "s-g-z3-a1-a1-hanger-case",
               "name": "A1-Hanger_Case",
+              "statusClass": "empty",
               "rcsPosition": "A1-Hanger_Case"
             },
             {
               "id": "s-g-z3-a1-a1-cd-accessory-home-ps-hp",
               "name": "A1-C/D_Accessory-Home_(PS&HP)",
+              "statusClass": "empty",
               "rcsPosition": "A1-C/D_Accessory-Home_(PS&HP)"
             },
             {
               "id": "s-g-z3-a1-a1-cd-accessory",
               "name": "A1-C/D_Accessory",
+              "statusClass": "empty",
               "rcsPosition": "A1-C/D_Accessory"
             },
             {
               "id": "s-g-z3-a1-a1-cd-operator",
               "name": "A1-C/D Operator",
+              "statusClass": "empty",
               "rcsPosition": "A1-C/D Operator"
             }
           ]
