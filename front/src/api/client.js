@@ -33,14 +33,22 @@ export function login(username, password) {
   });
 }
 
+// zone pick
 export function fetchZonePick(params= {}) {
   return apiRequest("/zones/get/groups")
 }
-
+// zone drop
 export function fetchZoneDrop(params= {}) {
   return apiRequest("/zones/get/drops")
 }
-
+// get robots
+export function fetchCart(params = {}) {
+  return apiRequest("/robots/get")
+}
+// get cart
+export function fetchCart(params = {}) {
+  return apiRequest("/robots/get/carts")
+}
 // ----------- ของเก่าเอาค้างไว้ก่อน ------------------
 export function fetchConfig() {
   return apiRequest("/config");
