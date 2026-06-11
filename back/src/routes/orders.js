@@ -93,6 +93,28 @@ function findRcsBaseUrl(config, robot) {
   return rcs?.baseUrl || "";
 }
 
+function clearTaskByOrderId(zones, orderId) {
+  for (const zone of zones || []) {
+    for (const group of getGroups(zone)) {
+      for (const spot of group.spots || []) {
+        if (spot.orderId === orderId) {
+          spot.statusCart = "empty";
+          spot.statusWork = "free";
+
+          delete spot.robotId;
+          delete spot.cartId;
+          delete spot.cartName;
+          delete spot.orderId;
+
+          return spot;
+        }
+      }
+    }
+  }
+
+  return null;
+}
+
 router.post("/", async (req, res) => {
   const {
     robotId,
@@ -285,20 +307,6 @@ router.post("/:orderId/clear-task", async (req, res) => {
   }
 
   await saveConfig(config);
-
-  const history = await getHistory();
-  const index = history.findIndex((item) => item.orderId === orderId);
-
-  if (index >= 0) {
-    history[index] = {
-      ...history[index],
-      status: "CLEARED",
-      clearedAt: new Date().toISOString(),
-      note: "Manual clear task",
-    };
-
-    await saveHistory(history);
-  }
 
   res.json({
     ok: true,

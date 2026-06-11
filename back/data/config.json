@@ -634,13 +634,6 @@
               "rcsPosition": "125-GSB400"
             },
             {
-              "id": "d-s-g-z3-g4-125-gsb282",
-              "name": "125-GSB282",
-              "statusCart": "empty",
-              "statusWork": "free",
-              "rcsPosition": "125-GSB282"
-            },
-            {
               "id": "d-s-g-z3-g4-124-sus-sheave-g5to",
               "name": "124_Sus.Sheave-G5TO",
               "statusCart": "empty",
@@ -719,8 +712,8 @@
             {
               "id": "d-s-g-z3-home-feederin",
               "name": "FeederIn",
-              "statusCart": "full",
-              "statusWork": "delivering",
+              "statusCart": "empty",
+              "statusWork": "full",
               "rcsPosition": "FeederIn",
               "robotId": "C100",
               "cartId": "3",
